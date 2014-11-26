@@ -1,0 +1,5 @@
+python-os-net-config (0.1.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #771072)
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 26 Nov 2014 22:43:39 +0800

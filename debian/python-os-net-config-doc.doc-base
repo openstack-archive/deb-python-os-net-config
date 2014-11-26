@@ -1,0 +1,9 @@
+Document: python-os-net-config-doc
+Title: os-net-config Documentation
+Author: N/A
+Abstract: Sphinx documentation for os-net-config
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-os-net-config-doc/html/index.html
+Files: /usr/share/doc/python-os-net-config-doc/html/*
