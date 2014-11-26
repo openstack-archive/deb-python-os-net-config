@@ -52,14 +52,12 @@ Depends: python-anyjson (>= 0.3.3),
          ${python:Depends}
 Suggests: python-os-net-config-doc
 Description: OpenStack network configuration - Python 2.x
- The core aim of this project is to allow fine grained (but extendable)
- configuration of the networking parameters for a network host. The project
- consists of:
-  * A CLI (os-net-config) which provides configuration via a YAML or JSON file
-    formats. By default os-net-config uses a YAML config file located at
-    /etc/os-net-config/config.yaml. This can be customized via the
-    --config-file CLI option.
-  * A Python library which provides configuration via an object model.
+ This package allows for fine grained and extendable configuration of
+ the networking parameters for a network host.
+ .
+ Besides a python module that provides the configuration via an object
+ model it includes a command line interface called os-net-config that
+ provices configuration via YAML or JSON file formats.
  .
  This package contains the Python 2.x module.
 
@@ -69,13 +67,11 @@ Architecture: all
 Pre-Depends: dpkg (>= 1.15.6~)
 Depends: ${misc:Depends}, ${sphinxdoc:Depends}
 Description: OpenStack network configuration - doc
- The core aim of this project is to allow fine grained (but extendable)
- configuration of the networking parameters for a network host. The project
- consists of:
-  * A CLI (os-net-config) which provides configuration via a YAML or JSON file
-    formats. By default os-net-config uses a YAML config file located at
-    /etc/os-net-config/config.yaml. This can be customized via the
-    --config-file CLI option.
-  * A Python library which provides configuration via an object model.
+ This package allows for fine grained and extendable configuration of
+ the networking parameters for a network host.
+ .
+ Besides a python module that provides the configuration via an object
+ model it includes a command line interface called os-net-config that
+ provices configuration via YAML or JSON file formats.
  .
  This package contains the documentation.
