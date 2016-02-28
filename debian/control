@@ -32,8 +32,8 @@ Build-Depends-Indep: python-anyjson (>= 0.3.3),
                      testrepository (>= 0.0.17)
 X-Python-Version: >= 2.7
 Standards-Version: 3.9.6
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-os-net-config.git
-Vcs-Git: git://anonscm.debian.org/openstack/python-os-net-config.git
+Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-os-net-config.git/
+Vcs-Git: https://anonscm.debian.org/git/openstack/python-os-net-config.git
 Homepage: http://git.openstack.org/cgit/openstack/os-net-config
 
 Package: python-os-net-config
