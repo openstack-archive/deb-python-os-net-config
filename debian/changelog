@@ -1,6 +1,7 @@
 python-os-net-config (0.1.0-3) UNRELEASED; urgency=medium
 
   * Fixed VCS URLs (https).
+  * d/rules: Fixed UPSTREAM_GIT.
 
  -- Ondřej Nový <novy@ondrej.org>  Sun, 28 Feb 2016 15:45:18 +0100
 
