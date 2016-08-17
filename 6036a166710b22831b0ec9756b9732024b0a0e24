@@ -1,0 +1,10 @@
+Code-Review+1: Bob Fournier <bfournie@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 19 Jul 2016 17:36:54 +0000
+Reviewed-on: https://review.openstack.org/336313
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

@@ -1,0 +1,10 @@
+Code-Review+2: John Trowbridge <trown@redhat.com>
+Code-Review+2: Giulio Fidente <gfidente@redhat.com>
+Code-Review+2: Juan Antonio Osorio Robles <jaosorior@redhat.com>
+Workflow+1: John Trowbridge <trown@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 12 Apr 2016 13:09:24 +0000
+Reviewed-on: https://review.openstack.org/304219
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

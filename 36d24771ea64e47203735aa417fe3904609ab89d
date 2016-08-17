@@ -1,0 +1,10 @@
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+2: Ladislav Smola <lsmola@redhat.com>
+Workflow+1: Dan Prince <dprince@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 Dec 2014 21:30:38 +0000
+Reviewed-on: https://review.openstack.org/141445
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

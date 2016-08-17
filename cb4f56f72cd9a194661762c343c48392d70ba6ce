@@ -1,0 +1,9 @@
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Mar 2016 21:08:49 +0000
+Reviewed-on: https://review.openstack.org/279842
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

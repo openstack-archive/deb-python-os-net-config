@@ -1,0 +1,10 @@
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: Dan Prince <dprince@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 04 Mar 2015 19:29:15 +0000
+Reviewed-on: https://review.openstack.org/147560
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

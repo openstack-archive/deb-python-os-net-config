@@ -1,0 +1,9 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Workflow+1: Steven Hardy <shardy@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 10 Jun 2016 15:43:39 +0000
+Reviewed-on: https://review.openstack.org/304215
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

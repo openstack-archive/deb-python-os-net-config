@@ -1,0 +1,9 @@
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Code-Review+2: Giulio Fidente <gfidente@redhat.com>
+Workflow+1: Giulio Fidente <gfidente@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 27 May 2015 07:54:54 +0000
+Reviewed-on: https://review.openstack.org/183136
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

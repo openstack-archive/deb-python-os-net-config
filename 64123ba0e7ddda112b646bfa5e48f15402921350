@@ -1,0 +1,10 @@
+Code-Review+2: Jiri Stransky <jistr@redhat.com>
+Code-Review+1: venkatamahesh <Venkata.Kotha@infinite.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Workflow+1: Steven Hardy <shardy@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 18 Sep 2015 14:20:45 +0000
+Reviewed-on: https://review.openstack.org/213352
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master

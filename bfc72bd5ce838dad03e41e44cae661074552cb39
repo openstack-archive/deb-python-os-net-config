@@ -1,0 +1,10 @@
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 25 Mar 2016 17:35:48 +0000
+Reviewed-on: https://review.openstack.org/291420
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
