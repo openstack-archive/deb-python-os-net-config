@@ -1,0 +1,5 @@
+[gerrit]
+host=review.openstack.org
+port=29418
+project=openstack/deb-python-os-net-config.git
+defaultbranch=debian/newton
