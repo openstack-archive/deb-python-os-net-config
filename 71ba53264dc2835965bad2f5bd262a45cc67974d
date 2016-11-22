@@ -1,0 +1,10 @@
+Code-Review+2: Dan Sneddon <dsneddon@redhat.com>
+Code-Review+1: Bob Fournier <bfournie@redhat.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: Dan Prince <dprince@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 21 Nov 2016 14:23:00 +0000
+Reviewed-on: https://review.openstack.org/397883
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
