@@ -1,0 +1,11 @@
+Code-Review+2: Brent Eagles <beagles@redhat.com>
+Code-Review+1: Saravanan KR <skramaja@redhat.com>
+Code-Review+1: Carlos Camacho <ccamacho@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Workflow+1: Steven Hardy <shardy@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 27 Jan 2017 16:57:26 +0000
+Reviewed-on: https://review.openstack.org/416955
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
