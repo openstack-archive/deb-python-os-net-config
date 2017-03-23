@@ -1,0 +1,11 @@
+Code-Review+2: Brent Eagles <beagles@redhat.com>
+Code-Review+1: Ricardo Noriega <rnoriega@redhat.com>
+Code-Review+1: Bob Fournier <bfournie@redhat.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Workflow+1: Dan Prince <dprince@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 13 Mar 2017 15:23:38 +0000
+Reviewed-on: https://review.openstack.org/444527
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
