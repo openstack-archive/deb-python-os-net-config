@@ -1,0 +1,9 @@
+Code-Review+2: Dan Sneddon <dsneddon@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Workflow+1: Steven Hardy <shardy@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 03 Apr 2017 10:25:39 +0000
+Reviewed-on: https://review.openstack.org/452273
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
