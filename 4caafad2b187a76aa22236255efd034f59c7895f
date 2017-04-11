@@ -1,0 +1,10 @@
+Code-Review+1: Sanjay Upadhyay <supadhya@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Ben Nemec <openstack@nemebean.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Apr 2017 17:52:01 +0000
+Reviewed-on: https://review.openstack.org/439519
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/stable/newton
