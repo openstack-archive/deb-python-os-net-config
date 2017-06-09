@@ -1,0 +1,11 @@
+Code-Review+1: Saravanan KR <skramaja@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Code-Review+1: Bob Fournier <bfournie@redhat.com>
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Workflow+1: Emilien Macchi <emilien@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 Jun 2017 10:56:12 +0000
+Reviewed-on: https://review.openstack.org/469164
+Project: openstack/deb-python-os-net-config
+Branch: refs/heads/master
